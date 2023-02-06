@@ -3,7 +3,7 @@ footer{
     align-items: center;
     justify-content: space-between;
     padding: 1.5rem 2rem;
-    margin-top: 2rem;
+    margin-top: 0.3rem;
     background-color: #020202;
 }
 footer h2 a{
@@ -27,8 +27,8 @@ footer ul{
     background: #fff;
     border-radius: 50%;
     margin: 10px;
-    width: 50px;
-    height: 50px;
+    width: 30px;
+    height: 30px;
     font-size: 18px;
     display: flex;
     justify-content: center;
